@@ -15,7 +15,7 @@ Application
 -----------
 Robert Sedak je snimio video s primjerom programiranim u Arduino IDE:
 
-[![Shield application](images/default.png)](https://youtu.bewaKxoW29I3I "Semafor za prijelaz preko željezničke pruge - primjer programiranja")
+[![Shield application](images/default.png)](https://youtu.be/waKxoW29I3I "Semafor za prijelaz preko željezničke pruge - primjer programiranja")
 
 
 
