@@ -16,7 +16,7 @@ Application
 -----------
 Robert Sedak made a video with example programmed in Arduino IDE:
 
-[![Shield application](images/default.png)](https://youtu.be/waKxoW29I3I "Traffic lights for railroad crossing example")
+[![Shield application](images/default.png)](https://youtu.be/PUQLCT5Isw0 "Traffic lights for railroad crossing example")
 
 
 
